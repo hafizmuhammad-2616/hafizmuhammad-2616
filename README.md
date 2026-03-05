@@ -18,3 +18,8 @@
   </a>
   
 </div>
+ </a>
+ <a href="https://wa.me/923117651235
+">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
